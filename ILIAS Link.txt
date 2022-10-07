@@ -1,1 +1,1 @@
-https://ilias.studium.kit.edu/ilias.php?ref_id=1908699&cmdClass=ilrepositorygui&cmdNode=wz&baseClass=ilrepositorygui
+https://ilias.studium.kit.edu/goto.php?target=crs_1908699&client_id=produktiv
